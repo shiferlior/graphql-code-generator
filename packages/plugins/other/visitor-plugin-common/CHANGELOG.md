@@ -1,5 +1,11 @@
 # @graphql-codegen/visitor-plugin-common
 
+## 1.17.19
+
+### Patch Changes
+
+- c3b59e81: Extract buildMapperImport to external function
+
 ## 1.17.18
 
 ### Patch Changes
